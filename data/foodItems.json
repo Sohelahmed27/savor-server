@@ -1,0 +1,40 @@
+{
+  "foods": [
+    {
+      "id": "001",
+      "name": "Grilled Salmon",
+      "price": "$18.99",
+      "picture": "https://i.pinimg.com/564x/21/4d/bd/214dbdc67d2232b5c66c507dd6d59f25.jpg"
+    },
+    {
+      "id": "002",
+      "name": "Margherita Pizza",
+      "price": "$12.99",
+      "picture": "https://i.pinimg.com/564x/35/40/6a/35406a43af95c801d0993b2dbf2b7c30.jpg"
+    },
+    {
+      "id": "003",
+      "name": "Chicken Alfredo",
+      "price": "$15.99",
+      "picture": "https://i.pinimg.com/564x/1f/6d/61/1f6d61c8a4a02b277d7354ab27d19cba.jpg"
+    },
+    {
+      "id": "004",
+      "name": "Beef Tacos",
+      "price": "$10.99",
+      "picture": "https://i.pinimg.com/564x/70/44/25/704425fd8ca829afbe806fddf30430a4.jpg"
+    },
+    {
+      "id": "005",
+      "name": "Cheeseburger",
+      "price": "$8.99",
+      "picture": "https://i.pinimg.com/564x/d3/fc/cd/d3fccd9b8160ecb10854814b4283acdb.jpg"
+    },
+    {
+      "id": "006",
+      "name": "Chocolate Cake",
+      "price": "$6.99",
+      "picture": "https://i.pinimg.com/564x/28/05/cb/2805cb15e1907e2886912eb06a6f0ce5.jpg"
+    }
+  ]
+}
